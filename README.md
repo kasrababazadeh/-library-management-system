@@ -25,7 +25,7 @@ Welcome to the **Library Management System** built in C++. This system is design
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kasrababazadeh/-library-management-system.git
+   git clone https://github.com/kasrababazadeh/library-management-system.git
 
 ## Setup Instructions
 
