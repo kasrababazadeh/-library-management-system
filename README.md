@@ -25,7 +25,7 @@ Welcome to the **Library Management System** built in C++. This system is design
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/kasrababazadeh/-library-management-system.git
    '''
 
 ### Setup Instructions
@@ -36,7 +36,6 @@ Welcome to the **Library Management System** built in C++. This system is design
    
 3. Compile and run the project.
 
----
 
 ### Usage
 
@@ -56,7 +55,6 @@ Welcome to the **Library Management System** built in C++. This system is design
    
    - **View Lend and Return History**: View the list of books lent or due for return on specific dates.
 
----
 
 ### Future Enhancements
 
@@ -65,19 +63,16 @@ Welcome to the **Library Management System** built in C++. This system is design
 - Implement a role-based system (e.g., admin vs. member).
 - Add a GUI interface for better user experience.
 
----
 
 ### Contributing
 
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request.
 
----
 
 ## License
 
 This project is licensed under the MIT License. For more details, refer to the [LICENSE](./LICENSE) file in the repository.
 
----
 
 ## Contact
 
